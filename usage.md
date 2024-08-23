@@ -4,9 +4,9 @@
 
 RainPPR's Blog 由两个姊妹项目构成：
 
-+ [这个网站]()：OI 相关内容。
++ [RainPPR's Blog](https://rainppr.github.io/blog/)：OI 相关内容。
 
-+ RainPPR's WHK Blog：whk 相关内容（暂未开发）。
++ [RainPPR's WHK Blog](https://rainppr.github.io/whk/)：WHK 相关内容。
 
 ## 如何找到文章相关资源
 
